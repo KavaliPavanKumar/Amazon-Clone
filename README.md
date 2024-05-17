@@ -25,12 +25,12 @@ To get a local copy of this project up and running, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/amazon-clone.git
+    git clone https://github.com/KavaliPavanKumar/Amazon-clone.git
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd amazon-clone
+    cd Amazon-clone
     ```
 
 ## Usage
@@ -54,10 +54,6 @@ amazon-clone/
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to create a pull request or open an issue.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
