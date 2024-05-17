@@ -59,4 +59,4 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 
 Your Name - Kavali Pavan Kumar
 
-Project Link: [[https://github.com/your-username/amazon-clone](https://github.com/your-username/amazon-clone)](https://kavalipavankumar.github.io/Amazon-Clone/)
+Project Link: https://kavalipavankumar.github.io/Amazon-Clone/
